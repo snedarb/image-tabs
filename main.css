@@ -40,3 +40,12 @@ html {
 .tabs a:hover {
     background-color: #666;
 }
+
+.panel {
+    display: none;
+}
+
+.panel:target {
+    display: block;
+    
+}
