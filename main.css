@@ -20,6 +20,7 @@ html {
 .tabs {
     position: absolute;
     top: 325px;
+    left: 17%;
     margin: 0;
     padding: 0;
     list-style-type: none;
